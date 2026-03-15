@@ -9,7 +9,8 @@ This Repository contains the individual class projects + Kaggle Projects,  I did
 # Data Analytics
 [Stock Price Prediction using Time Series Analysis and LSTM models](https://github.com/Sayantika-Nag/ML-DataAnalytics-DataScience/blob/3160cdd0fff6cafd561cae6370e8b292dd3a9ad5/StockPricePrediction_TimeSeriesAnalysis.ipynb)
 
-# [Kaggle Projects](https://github.com/Sayantika-Nag/ML-DataAnalytics/tree/e018b4a6b309fbf9cbd0bcfebed9192eb0ed0d8a/Kaggle_Projects)
+# Kaggle Projects
+[Kaggle Projects](https://github.com/Sayantika-Nag/ML-DataAnalytics/tree/e018b4a6b309fbf9cbd0bcfebed9192eb0ed0d8a/Kaggle_Projects)
 
 # Machine Learning
   ## 1. [Predict the Happy Scores of Tweets](https://github.com/Sayantika-Nag/ML-DataAnalytics/blob/511f5d3697369998029e0b86cf25bafc10d17960/TextRegressionMLP.ipynb)
