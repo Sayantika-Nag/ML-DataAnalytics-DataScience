@@ -7,8 +7,7 @@ This Repository contains the individual class projects + Kaggle Projects,  I did
 [HW3](https://github.com/Sayantika-Nag/ML-DataAnalytics/tree/1d1e62ece7cd00a775cc86232453ec6868530099/HW3) , 
 
 # Data Analytics
-[Stock Price Prediction using Time Series Analysis and LSTM models](https://github.com/Sayantika-Nag/ML-DataAnalytics-DataScience/blob/3160cdd0fff6cafd561cae6370e8b292dd3a9ad5/StockPricePrediction_TimeSeriesAnalysis.ipynb)
-
+[Stock Price Prediction using Time Series Analysis and LSTM models](https://github.com/Sayantika-Nag/ML-DataAnalytics-DataScience/blob/32f7aeaeb9b1145eb246141bb846ed5b6d15fd91/StockPricePrediction_TimeSeriesAnalysis.ipynb)
 # Kaggle Projects
 [Kaggle Projects](https://github.com/Sayantika-Nag/ML-DataAnalytics/tree/e018b4a6b309fbf9cbd0bcfebed9192eb0ed0d8a/Kaggle_Projects)
 
